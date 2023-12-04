@@ -127,3 +127,15 @@ Thema: Datensicherungsstrategie
     Eine Backup-Rotationsstrategie zur Optimierung der Speichernutzung über verschiedene Zeiträume hinweg.
     - 3-2-1 Regel: 
     3 Kopien der Daten auf 2 verschiedenen Medien, 1 außerhalb des Standorts.
+
+
+# Szenario: Verlust des persönliches Smartphones.
+
+| Service | Funktion | betroffene Daten | Backup | Wiederherstellung
+|----------|----------|----------|----------|----------|
+| Whatsapp    | Nachrichten/Fotos versenden   | Chats/Bilder   |  in der App | bei der Installation wird man gefragt, ob man die Daten wiederherstellen will
+| SocialMedia (TikTok, Insta, Snapchat, ...)    | Videos/Fotos von anderen ansehen/selber hochladen, chatten   | Chats/hochgeladene Bilder/Personalisierung der Vorschläge   | in der Cloud der App | einloggen
+| Dateien / OneDrive / Google Drive    | speichert die Dateien   | Text-Files, ...   | in der Cloud, auf dem Samsung-Account (bei Samsung-Geräten) | einloggen
+| Google | recherchieren, Daten speichern, ... | Dateien, Fotos, Suchverlauf, ... | in der Cloud von Google | einloggen
+
+      
