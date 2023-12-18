@@ -7,7 +7,7 @@ Es gibt verschiedene Arten von Lizenzen. Zum Beispiel die Software-Lizenz. Das i
 Es gibt aber auch die rechtliche Lizenz. Das ist eine rechtliche Erlaubnis oder Genehmigung, bestimmte Handlungen durchzuführen, die normalerweise nicht erlaubt wären. 
 
 # Aufgabe 2: Warum kommt man auf die Idee, Lizenzen zu schaffen?
-- Schutz des geistigen Eigentums sicherzustellen
+- Um den Schutz des geistigen Eigentums sicherzustellen
 - Kontrolle über die Nutzung von Ressourcen (insbesondere Software)
 
 # Aufgabe 3: Worauf gibt es alles Lizenzen ausser für Software?
