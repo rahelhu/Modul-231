@@ -36,7 +36,7 @@ Es gibt:
 - **Browsereinstellungen:** Chrome -> 3 Punkte oben rechts -> Einstellungen -> Cookies
 
 **Braucht es Cookies?**
-- Es gibt technisch notwendige, jedoch dienen sie in vielen Fällen auch nur dazu, um zum Beispiel die Funktionalität zu verbessern.
+- Es gibt technisch notwendige, jedoch dienen Cookies in vielen Fällen auch nur dazu, um zum Beispiel die Funktionalität zu verbessern.
 
 
 **Welche Ziele haben die Besitzer der Webseiten? Was möchten Sie erreichen?**
@@ -75,7 +75,7 @@ Es gibt:
 
 # gesetzliche Vorgaben (Datenschutz)
 **Welche gesetzlichen Vorgaben in Sachen Datenschutz gibt es für die Firmen?** 
-- Unternehmen müssen den Datenschutzgesestz entsprechen (in Schweiz: DSG, in EU. DSGVO)
+- Unternehmen müssen den Datenschutzgesestz entsprechen (in Schweiz: DSG, in EU: DSGVO)
 - Wenn es nicht eingehalten wird, kann es eine Geldstrafe geben.
 
 **Was heisst das für Sie, als Person, die in der Informatik arbeitet?**
@@ -98,7 +98,3 @@ Es gibt:
 - Um personalisierte Erfahrung zu bieten
 - Einnahmen steigern
 
-6. Welche gesetzlichen Vorgaben in Sachen Datenschutz gibt es für die Firmen? Was heisst das für Sie, als Person, die in der Informatik arbeitet?
-
-7. Einige Firmen werden mit dem Wort “Datenkraken” assoziiert. 
-Nennen Sie Beispiele und Hintergründe!
