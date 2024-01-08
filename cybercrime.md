@@ -6,7 +6,7 @@ Beim Social Engineering versucht der Hacker, das Vertrauen des Opfers zu gewinne
 Eine bekannte Masche ist die, dass sich die Trickbetrüger über einen Telefonanruf mit älteren Menschen als deren Enkel ausgeben. So können sie sie davon überzeugen, dass sie dringen Geld benötigen.
 
 **So kann man sich gegen Social Engineering schützen:**
-1. Die Quelle prüfen. Situationen wie: "Sie haben 5 Millionen geerbt" sollte einen misstrauisch machen. Bei Links soll man nicht direkt draufdrücken. Man kann zuerst den Cursor darauf plazieren. So kann man sich die URL ansehen.
+1. Die Quelle prüfen. Situationen wie: "Sie haben 5 Millionen geerbt" sollte einen misstrauisch machen. Bei Links soll man nicht direkt draufdrücken. Man kann zuerst den Cursor darauf platzieren. So kann man sich die URL ansehen.
 2. Was weiss der Absender oder Anrufer? Die Bank soll zum Beispiel schon den vollen Namen wissen.
 3. Bei verdächtigen Nachrichten/Anrufen kann man zum Beispiel die offizielle Nummer anrufen. Zur Prüfung der Glaubwürdigkeit nutzt man so einen anderen Kommunikationsweg.
 
@@ -34,3 +34,16 @@ Spear-Phishing unterscheidet sich von herkömmlichen Phishing durch die Zielgrup
 
 # Whaling
 Whaling ist eine Variante des Spear-Phishing, die sich auf eine hochrangige Person bezieht (z.B. CEO oder CIO eines Unternehmens).
+
+# Smishing
+Smishing ist eine Form des Phishings. Smishing ist eine Wortkombination von SMS und Phishing. Somit werden die Opfer über Textnachrichten angegriffen.
+
+# Vishing
+Die Bezeichnung "Vishing" steht für "Voice Phishing". Das bezeichnet Phishing-Anrufe per Telefon.
+
+# Watering Hole
+Bei einem Watering Hole Angriff suchen Angreifer eine Website aus, die oft von ihren Zielpersonen besucht wird. Dann fügen sie der Webseite schädlichen Code hinzu, ohne dass die Besucher es merken. Da die Opfer der Website vertrauen, sinkt ihre Wachsamkeit. Somit können sie auf schädliche Inhalte oder Malware stossen, die versucht, ihre Computer zu beeinträchtigen und persönliche Informationen zu stehlen. 
+Schutzmassnahmen sind zum Beispiel regelmäßige Sicherheitschecks von besuchten Websites und die Verwendung von Sicherheitssoftware.
+
+# Skimming
+Skimming sind verschiedene Methoden, die darauf abzielen, Kredit- oder Bankkarteninformationen zu stehlen. Das kann geschehen, indem Geldautomaten, Kassensysteme oder ähnliche Terminals gehackt, infiziert oder manipuliert werden. Das kann zum Beispiel mit Magnetstreifen, Wanzen, Mikrokameras oder Keylogger passieren.
