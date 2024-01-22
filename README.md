@@ -15,6 +15,10 @@ Link zu den Unterlagen: https://gitlab.com/klassenunterlagen_gg/m-231-hs-23
 - **12_Webseite verwendet Cookies.md:** cookies.md
   (https://github.com/rahelhu/Modul-231/blob/main/cookies.md)
 
+**02_Verschlüsselung**
+- chiffren.md
+  (https://github.com/rahelhu/Modul-231/blob/main/chiffren.md)
+
 **03_Passwörter:**
 - passwords.md
   (https://github.com/rahelhu/Modul-231/blob/main/passwords.md)
