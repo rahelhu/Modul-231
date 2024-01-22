@@ -2,7 +2,7 @@
 
 Link zu den Unterlagen: https://gitlab.com/klassenunterlagen_gg/m-231-hs-23
 
-**01_Datenschutz:**
+### 01_Datenschutz:
 - **04_Datenschutz Datensicherheit:** datensicherheit_datenschutz.md
   (https://github.com/rahelhu/Modul-231/blob/main/datensicherheit_datenschutz.md)
   
@@ -15,22 +15,22 @@ Link zu den Unterlagen: https://gitlab.com/klassenunterlagen_gg/m-231-hs-23
 - **12_Webseite verwendet Cookies.md:** cookies.md
   (https://github.com/rahelhu/Modul-231/blob/main/cookies.md)
 
-**02_Verschlüsselung**
+### 02_Verschlüsselung
 - chiffren.md
   (https://github.com/rahelhu/Modul-231/blob/main/chiffren.md)
 
-**03_Passwörter:**
+### 03_Passwörter:
 - passwords.md
   (https://github.com/rahelhu/Modul-231/blob/main/passwords.md)
 
-**05_Backup:**
+### 05_Backup:
 - backup.md
   (https://github.com/rahelhu/Modul-231/blob/main/backup.md)
 
-**07_Lizenzmodelle:**
+### 07_Lizenzmodelle:
 - licensing_models.md
   (https://github.com/rahelhu/Modul-231/blob/main/licensing_models.md)
 
-**Probesterben:**
+### Probesterben:
 - probesterben.md
   (https://github.com/rahelhu/Modul-231/blob/main/probesterben.md)
