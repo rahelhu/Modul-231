@@ -1,13 +1,13 @@
 # **Webseite verwendet Cookies**
 
-# Optionen im Cookie-Banner
+## Optionen im Cookie-Banner
 **Je nach Webseite, welche Sie aufrufen, erhalten Sie unterschiedliche Optionen zur Auswahl. Welche Möglichkeiten finden Sie?**
 - alle Cookies akzeptieren
 - Nur notwendige Cookies akzeptieren
 - alle Cookies ablehnen
 - Cookie-Einstellungen personalisieren
 
-# Warum Cookie-Banner?
+## Warum Cookie-Banner?
 **Warum werden seit einiger Zeit solche Banner angezeigt? Seit wann?** 
 - Die Banner werden angezeigt, um die Benutzer über den Einsatz von Cookies zu informieren und die Zustimmung einzuholen, personenbezogenen Daten zu verarbeiten.
 - **Schweiz:** Es veränderte sich in der Schweiz ab dem 1. September 2023 durch das neue Schweizer Datenschutzgesetz
@@ -16,7 +16,7 @@
 **Ist das nur auf Schweizer Websites der Fall?**
 - Nein, Cookies treten global auf
 
-# Definition Cookies
+## Definition Cookies
 **Was sind Cookies?**
 - Cookies sind kleine Textdateien. Diese werden über eine Webseite im Internetbrowser eines Nutzers gespeichert. Das abgelegte Textprogramm kann zu einem späteren Zeitpunkt wieder vom Webserver aufgerufen werden. Wenn man erneut auf einer Webseite surft, kann man durch Cookies wiedererkennt werden.
 
@@ -53,7 +53,7 @@ Es gibt:
 
 
 
-# Cookies und Datenschutz
+## Cookies und Datenschutz
 **Was haben diese Banner mit “Datenschutz” zu tun?**
 - Die Banner informieren die Benutzer darüber, dass die Website Cookies oder ähnliche Tracking-Technologien verwendet, um Informationen über ihr Online-Verhalten zu sammeln. Datenschutz bezieht sich auf den Schutz personenbezogener Daten und das Recht der Einzelpersonen, darüber zu entscheiden, wie ihre Daten verwendet werden. 
 
@@ -69,11 +69,11 @@ Es gibt:
 **Sollen bspw. immer alle akzeptiert werden?**
 - Ich finde nicht, da dadurch Informationen von der Person gesammelt werden, wie zum Beispiel die Interessen. So bekommt man immer personalisierte Werbung.
 
-# Option akzeptiert
+## Option akzeptiert
 **Was passiert, wenn jemand eine Option akzeptiert hat?  Kann die Person Ihre Meinung danach wieder ändern? Wenn ja: Wie?**
 - Man kann es ändern, indem man auf die Cookie-Einstellungen der Webseite geht.
 
-# gesetzliche Vorgaben (Datenschutz)
+## gesetzliche Vorgaben (Datenschutz)
 **Welche gesetzlichen Vorgaben in Sachen Datenschutz gibt es für die Firmen?** 
 - Unternehmen müssen den Datenschutzgesestz entsprechen (in Schweiz: DSG, in EU: DSGVO)
 - Wenn es nicht eingehalten wird, kann es eine Geldstrafe geben.
@@ -82,7 +82,7 @@ Es gibt:
 - Wir sollen die Datenschutzanforderungen verstehen und diese in der Entwicklung von Systemen berücksichtigen.
 
 
-# Datenkraken
+## Datenkraken
 **Einige Firmen werden mit dem Wort “Datenkraken” assoziiert.**
 
 **Was sind Datenkraken?**
