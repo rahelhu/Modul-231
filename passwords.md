@@ -1,5 +1,5 @@
 # Passwörter
-# Notwendigkeit von Passwörter - Was sind sichere Passwörter?
+## Notwendigkeit von Passwörter - Was sind sichere Passwörter?
 Warum Passwörter? (Grund für den Einsatz von Passwörter: Weshalb werden Passwörter eingesetzt?)
 - Um persönliche Daten zu schützen
 - Damit niemand Änderungen an deinem Konto vornehmen kann.
@@ -18,7 +18,7 @@ Passwort-Richtlinien:
 - Multifaktor-Authentifizierung ist wichtig
 - Länge der Passwörter ist sehr wichtig
 
-# Authentifizierung und Autorisierung
+## Authentifizierung und Autorisierung
 Authentifizierung: Zur Anmeldung an einem Computer oder Netzwerk müssen Sie Ihren Benutzernamen und Ihr Kennwort eingeben.
 
 Autorisierung: Wird überprüft, welche Zugriffsrechte ein Benutzer im Netzwerk hat bzw. ob dieser die Erlaubnis hat, Software selbstständig zu installieren.
@@ -49,7 +49,7 @@ RADIUS Server
 - Authentifizierung
 
 
-# MFA - Multi-Faktor-Authentisierung
+## MFA - Multi-Faktor-Authentisierung
 
 MFA verwendet zwei oder mehr Authentifizierungsmethoden, wie Passwörter und mobile Codes.
 
