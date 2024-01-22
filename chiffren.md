@@ -1,9 +1,8 @@
 # Chiffren
 *Die Chiffren sind von der Webseite https://www.cryptool.org/de/*
 
-# ADFG(V)X
-**Beschreibung:**
-**1. Phase: Substitution:**
+## ADFG(V)X
+### 1. Phase: Substitution:
 Zu Beginn muss eine Matrix mit sechst Zeilen und Spalten gebildet werden. Jeder Buchstabe (A-Z) und die Ziffern 0-9 müsssen genau einmal eingetragen werden.
 |  | A | D | F | G | V | X |
 |---|---|---|---|---|---|---|
@@ -18,7 +17,7 @@ Der Buchstabe G wird mit dieser Matrix mit XD ersetzt (Zeile X und Spalte D). Ei
 Klartext: Geheimnachricht
 Substitution: XD AD XX AD VA GA FD DV AG XX XV VA AG XX XA
 
-**2. Phase: Transposition:**
+### 2. Phase: Transposition:
  Im 2. Schritt wird zuerst ein beliebiges Schlüsselwort gewählt (Hier: Mykey). Die Übersetzung nach der Substitution wird nun von links nach rechts unter das Schlüsselwort geschrieben. Meistens braucht es dafür mehrere Zeilen.
 | M | Y | K | E | Y |
 |---|---|---|---|---|
@@ -42,7 +41,7 @@ Die Spalten werden nun nach dem Alphabet sortiert.
 Um den Geheimtext zu erhalten, muss zum Schluss die Matrix wieder spaltenweise, von oben nach unten auslesen. 
 Der endgültige Geheimtext lautet: „DV DX AX AD FG VX XX GV XG DA AA VX XA DX AA“.
 
-# Caesar
+## Caesar
 Im 1. Schritt wird das Alphabet 2 Mal untereinander aufgeschrieben. Das untere Alphabet wird dabei um eine beliebige Anzahl verschoben. In diesem Beispiel wird es 3 nach links verschoben, also hat es den Schlüssel 3.
 
 A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
@@ -59,7 +58,7 @@ Klartext: Geheimnachricht
 Schlüssel: 5
 Verschlüsselter Text: Ljmjnrsfhmwnhmy
 
-# Atbash
+## Atbash
 Die Atbash-Chiffre kehrt die Buchstaben des Alphabets um: A wird Z, B wird Y, ..., Y wird B, Z wird A.
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M |
