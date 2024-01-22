@@ -1,6 +1,6 @@
 # Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
-# Checkliste Daten im Homeoffice schützen
+## Checkliste Daten im Homeoffice schützen
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/daten-im-homeoffice-schuetzen
  - 01 Installieren Sie alle Updates
     - Ja, das mache ich. Immer wenn ein neues Update verfügbar ist, installiere ich es.
@@ -24,7 +24,7 @@
     - Ich weiss nicht, ob dies eingeschaltet ist. Ich habe jedoch noch nie etwas umgestellt, weshalb es sein kann, dass die automatisch eingeschaltet ist. 
 
 
-# Checkliste Smartphone-Sicherheit erhöhen
+## Checkliste Smartphone-Sicherheit erhöhen
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen
  - 01 Aktivieren Sie die Gerätesperre
     - Ja, das habe ich aktiviert.
