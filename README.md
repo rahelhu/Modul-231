@@ -3,6 +3,9 @@
 Link zu den Unterlagen: https://gitlab.com/klassenunterlagen_gg/m-231-hs-23
 
 ### 01_Datenschutz:
+- **01_Leseauftrag.md:** datenschutz.md
+  (https://github.com/rahelhu/Modul-231/blob/main/datenschutz.md)
+  
 - **04_Datenschutz Datensicherheit:** datensicherheit_datenschutz.md
   (https://github.com/rahelhu/Modul-231/blob/main/datensicherheit_datenschutz.md)
   
