@@ -1,4 +1,5 @@
 # Notizen Informationsdossier Datenschutz
+*Die Notizen sind zum Informationsdossier hier: https://gitlab.com/klassenunterlagen_gg/m-231-hs-23/-/blob/master/01_Datenschutz/01_Leseauftrag.md?ref_type=heads*
 
 ## Teil 1: "Was ist Datenschutz?" (bis und mit Seite 9)
 ### 1.1 Definition
